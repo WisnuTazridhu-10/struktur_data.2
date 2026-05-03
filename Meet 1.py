@@ -1,9 +1,9 @@
 nama = input("masukkan nama anda :")
-if nama=="wismu" :
+if nama=="wisnu" :
     print("selamat datang wisnu")
-elif nama=="wisnu tazridhu" : 
+elif nama=="inuk" : 
+    print("selamat datang inuk")
+else :
     print("anda bukan mahasiswa undikma")
     print("anda tidak terdaftar")
-else :
-    print("nim saya adalah:25241005")
 print("program selesai")
